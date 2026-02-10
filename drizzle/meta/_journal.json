@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1770710408011,
+      "tag": "0000_motionless_black_cat",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1770710686422,
+      "tag": "0001_medical_mandroid",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1770713555344,
+      "tag": "0002_wandering_tarot",
+      "breakpoints": true
+    }
+  ]
+}
